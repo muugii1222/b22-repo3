@@ -17,3 +17,5 @@ Now our work will continue locally
 How to save after adding some text in subline 
 on mac Command + S
 or Click on File --> save
+
+We do not have to one commit at a time
