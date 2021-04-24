@@ -19,3 +19,5 @@ on mac Command + S
 or Click on File --> save
 
 We do not have to one commit at a time
+You can push multiple commits is in one shot
+There is no limit
